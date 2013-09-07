@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebTrimmerGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebTrimmerGUI_jar</output-path>
+    <root id="archive" name="WebTrimmerGUI.jar">
+      <element id="module-output" name="WebTrimmerGUI" />
+      <element id="module-output" name="WebTrimmerEngine" />
+      <element id="extracted-dir" path="E:/Softwares/Dev Tools/Programming/Java/LIBs/UI/SWT/4.3/swt.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
